@@ -20,9 +20,9 @@ The analysis includes the following steps:
 
 > ***Key Findings***
 > * **Trend Analysis:** Visualizing the stock price trends revealed fluctuations over time, with periods of growth, decline, and stability observed across all companies.
-> * * **Correlation Analysis:** The correlation matrix and heatmap showed the relationships between the stock prices of different companies. Strong correlations were found among certain pairs, indicating synchronized movements in their prices.
-> * * **Percentage Change Analysis:** Calculating the percentage change in stock prices provided insights into the volatility and relative performance of each company. It highlighted periods of significant growth or decline.
-> * * **Pairwise Comparison:** Pairwise comparisons of percentage changes allowed for a deeper understanding of the relationships between stock price movements, enabling investors to identify potential trading opportunities.
+> * **Correlation Analysis:** The correlation matrix and heatmap showed the relationships between the stock prices of different companies. Strong correlations were found among certain pairs, indicating synchronized movements in their prices.
+> * **Percentage Change Analysis:** Calculating the percentage change in stock prices provided insights into the volatility and relative performance of each company. It highlighted periods of significant growth or decline.
+> * **Pairwise Comparison:** Pairwise comparisons of percentage changes allowed for a deeper understanding of the relationships between stock price movements, enabling investors to identify potential trading opportunities.
 
 **Overall, the analysis demonstrated the importance of comprehensive data analysis techniques in understanding stock market dynamics. Investors can leverage these insights to make informed decisions regarding portfolio management, risk assessment, and trading strategies.**
 
